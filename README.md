@@ -1,6 +1,7 @@
 This was made using LuaRT.
 
 This is a very small joke project I made but it turned out to be kinda annoying to do so i'm gonna write it down on how to do it
+
 Currently LuaRT does not support video formats as a module, so I jerry-rigged it together using Webview.
 
 the code i used :
@@ -27,6 +28,7 @@ the code i used :
 
 
 Using RTC which is also made by "Samyeyo", the creator of LuaRT. I compiled the raw lua file into a executable.
+
 The command used:
 
 
@@ -34,10 +36,13 @@ The command used:
 
 
 Using that I had an executable which I then added Lua54.dll to the same folder as the dynamic option (which was used) does not come preloaded with Lua54 binaries.
+
 It is possible to change the icon using RTC but I decided not to. Rather I used a program called "Resource Hacker". 
+
 Inside of that program it is possible to change the icon in a way that even if you send it to a friend you do not have to leave the icon in the folder.
 
 Links:
+
 https://luart.org
 
 https://github.com/samyeyo
