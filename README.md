@@ -53,3 +53,5 @@ https://github.com/samyeyo/rtc
 https://angusj.com/resourcehacker/
 
 thanks for reading this far
+
+(this is also made for x64 but will work the same you just have to switch out the lua54.dll to the x86 version found on http://www.lua.org/)
