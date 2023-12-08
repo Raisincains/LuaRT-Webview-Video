@@ -5,7 +5,7 @@ Currently LuaRT does not support video formats as a module, so I jerry-rigged it
 
 the code i used :
 
-[[
+
 
 	--modules
 	local ui = require "ui"
@@ -24,13 +24,15 @@ the code i used :
 	  ui.update()
 	end
 
-]]
+
 
 Using RTC which is also made by "Samyeyo", the creator of LuaRT. I compiled the raw lua file into a executable.
 The command used:
-[[
+
+
 	rtc -w -lwebview [path]\raw.lua .
-]]
+
+
 Using that I had an executable which I then added Lua54.dll to the same folder as the dynamic option (which was used) does not come preloaded with Lua54 binaries.
 It is possible to change the icon using RTC but I decided not to. Rather I used a program called "Resource Hacker". 
 Inside of that program it is possible to change the icon in a way that even if you send it to a friend you do not have to leave the icon in the folder.
