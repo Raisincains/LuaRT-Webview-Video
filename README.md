@@ -38,9 +38,12 @@ It is possible to change the icon using RTC but I decided not to. Rather I used 
 Inside of that program it is possible to change the icon in a way that even if you send it to a friend you do not have to leave the icon in the folder.
 
 Links:
-,https://luart.org
-,https://github.com/samyeyo
-,https://github.com/samyeyo/rtc
-,https://angusj.com/resourcehacker/
+https://luart.org
+
+https://github.com/samyeyo
+
+https://github.com/samyeyo/rtc
+
+https://angusj.com/resourcehacker/
 
 thanks for reading this far
